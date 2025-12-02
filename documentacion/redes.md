@@ -1,10 +1,15 @@
 # REDES
 
 1457	10.120.234.0/24	OpenStack-LAB-18 Public API
+
 1458	 	OpenStack-LAB-18 Control
+
 1459	 	OpenStack-LAB-18 IntApi
+
 1460	 	OpenStack-LAB-18 Tenant
+
 1461	10.120.238.0/24	OpenStack-LAB-18 MachineNet
+
 
 Para las redes de Charmed-Openstack
 External Network        Red externa para acceso de floating y públicas
