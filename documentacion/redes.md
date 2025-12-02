@@ -16,7 +16,7 @@ Para las redes de Charmed-Openstack (8 redes)
 
 | Nombre de la Red | Descripción y Uso Principal | NAT |
 |:-----------------|:----------------------------|:----| 
-| **External Network** | Red externa para acceso de **Floating IPs** (IPs flotantes) y **direcciones públicas**. | NO |
+| **External Network** | Red externa para acceso de **Floating IPs** (IPs flotantes) y **direcciones públicas**. | IP's Públicas |
 | **Storage Access** | Red de acceso al **storage** (almacenamiento). Usada por los clientes para el servicio **Object Storage** (almacenamiento de objetos). | NO | 
 | **Storage Replication** | Red de **replicación de storage**. Usada para la réplica de datos entre unidades de **CEPH** (o un sistema similar). | NO |
 | **Tenant Network** | Red de comunicación entre **proyectos** o **tenants** (inquilinos) de clientes. | NO | 
